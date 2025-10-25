@@ -4,14 +4,16 @@ kwds: [org, us-gov]
 who: me, chatpgt (ai)
 ---
 
-# Main Departments of the U.S. Government
 
-with AI = ChatGPT (GPT-5)
+## TALK
 
-## Me
+### Me
+
 What are the main department os the us government ?
 
-## AI
+
+### AI
+
 The U.S. federal government is divided into three main branches and has 15 executive departments that oversee different areas of governance. Here’s a breakdown:  
 
 **Three Branches of Government**
