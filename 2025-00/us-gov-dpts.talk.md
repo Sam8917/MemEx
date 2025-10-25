@@ -1,7 +1,7 @@
 ---
 name: Main Departments of the U.S. Government
-kwds: [org, us-gov]
-who: me, chatpgt (ai)
+kwds: [orgs]
+who: me, chatpgt (ai), us gov
 ---
 
 
