@@ -27,5 +27,8 @@ dessine moi la france en forme d'hexagone dans un style cartoon vintage
 
 ### AI
 
+![](france-illustree-hexagone_002.jpg)
+
 Voici une représentation de la France en forme d’hexagone dans un style cartoon vintage ! Elle inclut des illustrations dessinées à la main de lieux emblématiques comme la Tour Eiffel, le Mont Saint-Michel et des vignobles, avec une palette rétro et chaleureuse. J’espère que ça te plaît ! 😊
+
 
