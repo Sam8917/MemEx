@@ -1,11 +1,11 @@
-# Conversation: Main Departments of the U.S. Government
+# Main Departments of the U.S. Government
 
 with AI = ChatGPT (GPT-5)
 
-## User Question
-what are the main department os the us government ?
+## Me
+What are the main department os the us government ?
 
-## AI Answer
+## AI
 The U.S. federal government is divided into three main branches and has 15 executive departments that oversee different areas of governance. Here’s a breakdown:  
 
 **Three Branches of Government**
