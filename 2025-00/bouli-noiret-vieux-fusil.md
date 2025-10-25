@@ -1,6 +1,6 @@
 ---
 name: Bouli Noiret Vieux Fusil
-kwds: [orgs]
+kwds: orgs
 who: me, chatpgt (ai), fr, bouli
 ---
 
@@ -24,6 +24,7 @@ L'ambiance est joyeuse et simple, avec un style rétro et enfantin, sans fond (f
 ### AI
 
 ![](bouli-noiret-vieux-fusil_001.jpg)
+
 
 
 
