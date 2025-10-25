@@ -1,3 +1,8 @@
+---
+name: Main Departments of the U.S. Government
+kwds: [org, us-gov]
+---
+
 # Main Departments of the U.S. Government
 
 with AI = ChatGPT (GPT-5)
