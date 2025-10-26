@@ -1,6 +1,6 @@
 ---
 name: Population and GDP per Capita of DACH Countries and China
-kwds:
+kwds: gdp, gdp per capita, population (pop)
 when: 2025-05
 who: me, x grok (ai), de, at, ch, cn
 ---
@@ -115,4 +115,5 @@ population and gdp per capita of china
 - Data is sourced from reliable references, including Data Commons, CEIC, and posts on X for context, with critical consideration of potential distortions in official figures.
 
 If you need further details (e.g., total GDP, PPP figures, or comparisons with the previously calculated countries), let me know!
+
 
