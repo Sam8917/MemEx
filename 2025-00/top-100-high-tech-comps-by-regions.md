@@ -9,6 +9,8 @@ who: me, chatpgt (ai)
 
 ### Me
 
+top 100 high-tech companies - location by country and continent
+
 ### AI
 
 By Country (Approximate, 2018 Thomson Reuters)
