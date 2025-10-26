@@ -1,7 +1,7 @@
 ---
 name : Scheele Judith - Smugglers and saints of the sahara review review
 kwds : trade, trafic, drug, arab
-who : me, mistral ai, scheele judith
+who : me, mistral ai (ai), scheele judith
 where : west africa, north africa (maghreb), sahara, algeria
 ---
 
