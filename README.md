@@ -11,3 +11,7 @@ the file name must start with iso beginning date of convo underscore meaningul s
 export this convo as a downloadable markdown file
 ```
 
+```
+export verbatim this full convo as a downloadable markdown file
+```
+
